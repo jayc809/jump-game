@@ -1,0 +1,15 @@
+#* java -ea jump61.Main
+# what do you mena its different
+seed 1392
+size 4
+manual blue
+4 2
+2 2
+1 4
+1 3
+3 2
+3 4
+dump
+auto blue
+dump
+quit
